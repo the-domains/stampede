@@ -1,0 +1,14 @@
+layout_spectrum: 0.3514757
+typography_spectrum: 0.7666383
+color:
+  saturation: 0.3279103
+  lightness: 0.6874873
+  brandStrength: 0.5870468
+  rhythmicContrast: 0.4629372
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Stampede
